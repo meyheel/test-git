@@ -5,9 +5,18 @@ git clone --no-checkout https://github.com/meyheel/test-sparse-checkout
 
 cd test-sparse-checkout
 
-git sparse-checkout list
+C:\test\test-sparse-checkout>git sparse-checkout list
+fatal: this worktree is not sparse
 
-git sparse-checkout set
+git sparse-checkout init
+
+
+
+
+git sparse-checkout set B
+
+
+
 
 git sparse-checkout list
 
