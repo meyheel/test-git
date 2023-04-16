@@ -4,8 +4,8 @@
 /* @meyheel  
 .gitignore @meyheel 
 
-# Lines starting with '#' are comments.
-# Each line is a file pattern followed by one or more owners.
+"# Lines starting with '#' are comments."
+"# Each line is a file pattern followed by one or more owners.
 
 # More details are here: https://help.github.com/articles/about-codeowners/
 
