@@ -4,32 +4,32 @@
 /* @meyheel  
 .gitignore @meyheel 
 
-"# Lines starting with '#' are comments."  
-"# Each line is a file pattern followed by one or more owners."  
+ Lines starting with '' are comments.  
+ Each line is a file pattern followed by one or more owners.  
 
-"# More details are here: https://help.github.com/articles/about-codeowners/
+ More details are here: https://help.github.com/articles/about-codeowners/
 
-"# The '*' pattern is global owners.
+ The '*' pattern is global owners.
 
-"# Order is important. The last matching pattern has the most precedence.
-"# The folders are ordered as follows:
+ Order is important. The last matching pattern has the most precedence.
+ The folders are ordered as follows:
 
-"# In each subsection folders are ordered first by depth, then alphabetically.
-"# This should make it easy to add new rules without breaking existing ones.
+ In each subsection folders are ordered first by depth, then alphabetically.
+ This should make it easy to add new rules without breaking existing ones.
 
-"# Global rule:
+ Global rule:
 *           @dotnet/docs
 
-"# C# samples:
+ C samples:
 /csharp/**  @BillWagner
 
-"# ML.NET samples:
+ ML.NET samples:
 /machine-learning/**  @luisquintanilla
 
-"# WPF folders:
+ WPF folders:
 /wpf/**   @adegeo
 
-"# Windows forms areas:
+ Windows forms areas:
 /windowsforms/** @adegeo @dotnet/dotnet-winforms
 
 # test-sparse-checkout in windows
