@@ -1,3 +1,9 @@
+"# CODEOWNERS" 
+.github/CODEOWNERS
+/** @meyheel
+/* @meyheel
+.gitignore @meyheel
+
 "# test-sparse-checkout in windows" 
 
 
