@@ -6,11 +6,11 @@
 
 # test-sparse-checkout in windows
 
-git clone --no-checkout https://github.com/meyheel/test-sparse-checkout
+git clone --no-checkout https://github.com/meyheel/test-git
 
-cd test-sparse-checkout
+cd test-git
 
-C:\test\test-sparse-checkout>git sparse-checkout list
+C:\test\test-git>git sparse-checkout list
 fatal: this worktree is not sparse
 
 git sparse-checkout init
