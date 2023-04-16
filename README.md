@@ -10,13 +10,7 @@ fatal: this worktree is not sparse
 
 git sparse-checkout init
 
-
-
-
 git sparse-checkout set B
-
-
-
 
 git sparse-checkout list
 
@@ -24,6 +18,10 @@ git sparse-checkout set B/b/1.txt
 
 git sparse-checkout list
 
+git sparse-checkout add a
+
+git sparse-checkout list
+
 git checkout
 
-dir /s
+
