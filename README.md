@@ -4,8 +4,7 @@
 /* @meyheel  
 .gitignore @meyheel  
 
-"# test-sparse-checkout in windows" 
-
+# test-sparse-checkout in windows
 
 git clone --no-checkout https://github.com/meyheel/test-sparse-checkout
 
